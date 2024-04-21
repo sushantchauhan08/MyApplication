@@ -41,5 +41,6 @@ fun GreetingPreview() {
         Greeting("Sushant")
         Greeting("featureFirstBranchCommitAndPush")
         Greeting("featureFirstBranchCommitAndPushMaster")
+        Greeting("YakshitChauhan")
     }
 }
