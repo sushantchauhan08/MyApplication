@@ -39,6 +39,6 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
 fun GreetingPreview() {
     MyApplicationTheme {
         Greeting("Sushant")
-        Greeting("featureFirstBranchCommit")
+        Greeting("featureFirstBranchCommitAndPush")
     }
 }
