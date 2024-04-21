@@ -40,5 +40,6 @@ fun GreetingPreview() {
     MyApplicationTheme {
         Greeting("Sushant")
         Greeting("featureFirstBranchCommitAndPush")
+        Greeting("featureFirstBranchCommitAndPushMaster")
     }
 }
